@@ -1,0 +1,6 @@
+color=input("Enter a color: ")
+pluralName=input("Enter a Plural Name: ")
+celeb=input("Enter a celeb: ")
+print("Roses are "+color)
+print(pluralName+ " are blue")
+print("I don't know "+celeb)
