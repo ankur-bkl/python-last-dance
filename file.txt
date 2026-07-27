@@ -1,4 +1,3 @@
 Enter the secret word: abc
 Enter the secret word: xyz
-Enter the secret word: test
-Kya Bawasir Banaya Hai
+Enter the secret word: testKya Bawasir Banaya Hai
